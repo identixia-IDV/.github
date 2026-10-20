@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Integration support and evaluation licenses
+    url: https://docs.identixia.com/guides/contact-us
+    about: Contact Identixia for product selection, licensing, and integration assistance.
+  - name: Documentation
+    url: https://docs.identixia.com
+    about: Read setup guides, API references, and platform instructions.
+  - name: Report a security vulnerability privately
+    url: https://github.com/identixia-IDV/.github/blob/main/SECURITY.md
+    about: Follow the private reporting process. Do not disclose vulnerabilities in public issues.
